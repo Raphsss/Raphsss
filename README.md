@@ -15,7 +15,7 @@ My name is Raphael and I'm a 16-year-old Brazilian student passionate about tech
 
 
 
-## 🚀 Featured Projects
+## 💾 Projects
 
 - [Sistema Escolar Laravel](https://github.com/Raphsss/Sistema-Escolar) – A school management system with grade tracking and user roles. (WIP)
 
@@ -36,7 +36,7 @@ My name is Raphael and I'm a 16-year-old Brazilian student passionate about tech
 
 ---
 
-## 📫 Contact & Socials
+## 📫 Contact me
 
 - [LinkedIn](#)
 - [GitHub](https://github.com/Raphsss)
