@@ -38,7 +38,6 @@ My name is Raphael and I'm a 16-year-old Brazilian student passionate about tech
 
 ## 📫 Contact me
 
-- [LinkedIn](#)
 - [GitHub](https://github.com/Raphsss)
 - [Portfolio](#)
 
