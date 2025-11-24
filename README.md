@@ -32,7 +32,7 @@ My name is Raphael and I'm a 16-year-old Brazilian student passionate about tech
 [![](https://skillicons.dev/icons?i=mysql,mariadb)](https://skillicons.dev)
 
 ### Tools & Operating Systems
-[![](https://skillicons.dev/icons?i=git,Github,linux)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
 
 ---
 
