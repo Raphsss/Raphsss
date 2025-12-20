@@ -4,7 +4,7 @@ My name is Raphael and I'm a 16-year-old Brazilian student passionate about tech
 
 
 
-## 📈 Top Languages
+## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphsss&layout=compact&theme=dark)
 
@@ -15,12 +15,12 @@ My name is Raphael and I'm a 16-year-old Brazilian student passionate about tech
 
 
 
-## 💾 Projects
+## Projects
 
 - [Sistema Escolar Laravel](https://github.com/Raphsss/Sistema-Escolar) – A school management system with grade tracking and user roles. (WIP)
 
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Front-end
 [![](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://skillicons.dev)
@@ -36,7 +36,7 @@ My name is Raphael and I'm a 16-year-old Brazilian student passionate about tech
 
 ---
 
-## 📫 Contact me
+## Contact me
 
 - [Portfolio](#)
 
