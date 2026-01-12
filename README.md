@@ -1,6 +1,6 @@
 # Hey 👋, What's up?
 
-My name is Raphael and I'm a 16-year-old Brazilian student passionate about technology and web development. I enjoy working on solving problems, refining my coding skills, and exploring new backend and frontend tools.
+My name is Raphael and I'm a Brazilian student passionate about technology and web development. I enjoy working on solving problems, refining my coding skills, and exploring new backend and frontend tools.
 
 
 
