@@ -6,7 +6,8 @@ My name is Raphael and I'm a Brazilian student passionate about technology and w
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphsss&layout=compact&theme=dark)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=Raphsss&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphsss&layout=compact&theme=radical
+))
 
 ## About Me
 
