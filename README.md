@@ -5,7 +5,7 @@ My name is Raphael and I'm a Brazilian student passionate about technology and w
 ## About Me
 
 - 💡 Interests: Web development, databases, and open-source contributions
-- 📚 Currently learning: Advanced Laravel, Tailwind, and modern backend/frontend practices
+- 📚 Currently learning: Asp .NET, Tailwind, and modern backend/frontend practices
 
 ## Projects
 
