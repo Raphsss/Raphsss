@@ -1,5 +1,9 @@
 # Hi, I'm Raphael 👋
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raphsss&show_icons=true&theme=transparent" alt="Raphael's GitHub stats" />
+</p>
+
 I'm a technology student from Brazil with a strong interest in web development.  
 I enjoy building projects to solve real problems, improve my programming skills, and write cleaner, more maintainable software.
 
