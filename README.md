@@ -1,9 +1,5 @@
 # Hi, I'm Raphael 👋
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raphsss&show_icons=true&theme=transparent" alt="Raphael's GitHub stats" />
-</p>
-
 I'm a technology student from Brazil with a strong interest in web development.  
 I enjoy building projects to solve real problems, improve my programming skills, and write cleaner, more maintainable software.
 
@@ -24,7 +20,7 @@ My main focus is studying **Design Patterns**, **Clean Code**, and good software
 
 ## Projects
 
-- **Sistema Escolar Laravel** – A work-in-progress school management system that handles grade tracking, user roles, and business rules.
+- **[Sistema Escolar Laravel](https://github.com/Raphsss/Sistema-Escolar)** – A work-in-progress school management system that handles grade tracking, user roles, and business rules.
 
 ---
 
@@ -34,10 +30,10 @@ My main focus is studying **Design Patterns**, **Clean Code**, and good software
 [![](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://skillicons.dev)
 
 ### Back-end
-[![](https://skillicons.dev/icons?i=php,laravel,csharp,dotnet)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=php,laravel,dotnet)](https://skillicons.dev)
 
 ### Databases
-[![](https://skillicons.dev/icons?i=mysql,mariadb,mssql)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=mysql,mariadb)](https://skillicons.dev)
 
 ### Tools & Operating Systems
 [![](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
