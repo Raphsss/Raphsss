@@ -1,16 +1,28 @@
-# Hey 👋, What's up?
+# Hi, I'm Raphael 👋
 
-My name is Raphael and I'm a Brazilian student passionate about technology and web development. I enjoy working on solving problems, refining my coding skills, and exploring new backend and frontend technologies.
+I'm a technology student from Brazil with a strong interest in web development.  
+I enjoy building projects to solve real problems, improve my programming skills, and write cleaner, more maintainable software.
+
+Currently, I'm expanding my backend knowledge into the .NET ecosystem.  
+My main focus is studying **Design Patterns**, **Clean Code**, and good software architecture practices.
+
+---
 
 ## About Me
 
-- 💡 Interests: Web development, databases, and open-source contributions
-- 📚 Currently learning: Asp .NET and modern backend/frontend practices
+- Technology student from Brazil interested in software development.
+- Currently learning and improving my skills in **C#** and **.NET**.
+- Interested in backend development, software design, and clean architecture.
+- Always looking to build projects that help me grow as a developer.
+- Outside of coding, I enjoy practicing **Brazilian Jiu-Jitsu** and working out.
+
+---
 
 ## Projects
 
-- [Sistema Escolar Laravel](https://github.com/Raphsss/Sistema-Escolar) – A school management system with grade tracking and user roles. (WIP)
+- **Sistema Escolar Laravel** – A work-in-progress school management system that handles grade tracking, user roles, and business rules.
 
+---
 
 ## Technologies & Tools
 
@@ -28,8 +40,6 @@ My name is Raphael and I'm a Brazilian student passionate about technology and w
 
 ---
 
-## Contact me
+## Contact Me
 
 [![Email](https://img.shields.io/badge/Email-raphaelTEC00@outlook.com-blue?style=for-the-badge&logo=gmail)](mailto:raphaelTEC00@outlook.com)
-
----
