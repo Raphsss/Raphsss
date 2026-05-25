@@ -18,12 +18,6 @@ My main focus is studying **Design Patterns**, **Clean Code**, and good software
 
 ---
 
-## Projects
-
-- **[Sistema Escolar Laravel](https://github.com/Raphsss/Sistema-Escolar)** – A work-in-progress school management system that handles grade tracking, user roles, and business rules.
-
----
-
 ## Technologies & Tools
 
 ### Front-end
